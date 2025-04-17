@@ -20,19 +20,19 @@ import { ArrowRight } from "lucide-vue-next";
           <span class="mr-2 text-primary">
             <Badge>New</Badge>
           </span>
-          <span> Design is out now! </span>
+          <span> Design editado! </span>
         </Badge>
 
         <div
           class="max-w-screen-md mx-auto text-center text-5xl md:text-6xl font-bold"
         >
           <h1>
-            Experience the
+            Pagina levemente editada para o
             <span
               class="text-transparent bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text"
-              >Shadcn/Vue
+              >Experimento 7
             </span>
-            landing page
+  
           </h1>
         </div>
 
@@ -55,7 +55,7 @@ import { ArrowRight } from "lucide-vue-next";
             class="w-5/6 md:w-1/4 font-bold"
           >
             <a
-              href="https://github.com/leoMirandaa/shadcn-vue-landing-page.git"
+              href="https://github.com/Sorrinosor/Experimento-7-Vue.git"
               target="_blank"
               >Github respository</a
             >
